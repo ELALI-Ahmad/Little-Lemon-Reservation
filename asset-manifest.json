@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/github.io/Little-Lemon-Reservation/static/css/main.6ffb6a0e.css",
+    "main.js": "/github.io/Little-Lemon-Reservation/static/js/main.6e9cf9a7.js",
+    "static/js/787.7057dd96.chunk.js": "/github.io/Little-Lemon-Reservation/static/js/787.7057dd96.chunk.js",
+    "static/media/photo1.png": "/github.io/Little-Lemon-Reservation/static/media/photo1.cae8db9f114ddc4fffe9.png",
+    "static/media/photo3.png": "/github.io/Little-Lemon-Reservation/static/media/photo3.5b93ee1970a40019d4dc.png",
+    "static/media/food.png": "/github.io/Little-Lemon-Reservation/static/media/food.f4f7aad65c59093ddce8.png",
+    "static/media/logo2.png": "/github.io/Little-Lemon-Reservation/static/media/logo2.2c859235d6c57bb54176.png",
+    "static/media/photo2.png": "/github.io/Little-Lemon-Reservation/static/media/photo2.b4c9573d802c10d1de28.png",
+    "static/media/logo1.png": "/github.io/Little-Lemon-Reservation/static/media/logo1.d4cae6fac8384c2dae04.png",
+    "index.html": "/github.io/Little-Lemon-Reservation/index.html",
+    "main.6ffb6a0e.css.map": "/github.io/Little-Lemon-Reservation/static/css/main.6ffb6a0e.css.map",
+    "main.6e9cf9a7.js.map": "/github.io/Little-Lemon-Reservation/static/js/main.6e9cf9a7.js.map",
+    "787.7057dd96.chunk.js.map": "/github.io/Little-Lemon-Reservation/static/js/787.7057dd96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ffb6a0e.css",
+    "static/js/main.6e9cf9a7.js"
+  ]
+}
